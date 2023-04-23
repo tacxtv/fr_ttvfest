@@ -1,5 +1,5 @@
 <template lang="pug">
 .h-full.w-full
-    .container.mx-auto
-      lazy-nuxt-page
+    hero
+    lazy-nuxt-page
 </template>
