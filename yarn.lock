@@ -6606,6 +6606,11 @@ vue-devtools-stub@^0.1.0:
   resolved "https://registry.yarnpkg.com/vue-devtools-stub/-/vue-devtools-stub-0.1.0.tgz#a65b9485edecd4273cedcb8102c739b83add2c81"
   integrity sha512-RutnB7X8c5hjq39NceArgXg28WZtZpGc3+J16ljMiYnFhKvd8hITxSWQSQ5bvldxMDU6gG5mkxl1MTQLXckVSQ==
 
+vue-plugin-load-script@^2.1.1:
+  version "2.1.1"
+  resolved "https://registry.yarnpkg.com/vue-plugin-load-script/-/vue-plugin-load-script-2.1.1.tgz#5c16fbb428dae38440022dbf7ab02bf0b2429e26"
+  integrity sha512-IViO0hNj4O39M8I1taX74B5PR5RI7IrlEt+dvAjOk3NRLwQ7ZrdexUo9+K++KBzGPJtaVL1+emTyMWeOtjZojw==
+
 vue-router@^4.1.6:
   version "4.1.6"
   resolved "https://registry.yarnpkg.com/vue-router/-/vue-router-4.1.6.tgz#b70303737e12b4814578d21d68d21618469375a1"

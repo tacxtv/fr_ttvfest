@@ -1,5 +1,5 @@
 <template lang="pug">
-div.h-full.w-full
+div.h-full.w-full.accueil
     section-presentation
     section-streamers
 </template>
@@ -18,3 +18,8 @@ export default defineComponent({
   },
 })
 </script>
+
+<style lang="sass">
+.accueil
+  background-color: var(--basic-background-color)
+</style>

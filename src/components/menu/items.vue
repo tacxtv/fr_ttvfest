@@ -6,7 +6,7 @@ div.text-white.custom-font-joti_one.text-3xl
       li.mx-2
         nuxt-link(to="/stream") Le STREAM
       li.mx-2
-        nuxt-link(to="/contributors") Contributeurs
+        nuxt-link(to="/planning") Planning
       li.mx-2
-        nuxt-link(to="/contact") Contact
+        nuxt-link(to="/donationgoal") Objectifs
 </template>
