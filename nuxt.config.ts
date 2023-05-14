@@ -11,8 +11,9 @@ export default defineNuxtConfig(<NuxtConfig>{
 
   target: 'static',
   router: {
-    base: '/fr_ttvfest/'
+    base: '/fr_ttvfest/',
   },
+  baseURL: '/fr_ttvfest/',
 
   components: {
     global: true,
