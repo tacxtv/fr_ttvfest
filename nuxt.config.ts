@@ -9,6 +9,11 @@ export default defineNuxtConfig(<NuxtConfig>{
   pages: true,
   srcDir: 'src',
 
+  target: 'static',
+  router: {
+    base: '/fr_ttvfest/'
+  },
+
   components: {
     global: true,
     dirs: [{ path: '~/components' }],
