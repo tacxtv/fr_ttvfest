@@ -32,7 +32,7 @@
     "eslint": "^8.38.0",
     "jest": "^29.5.0",
     "nuxt": "^3.4.1",
-    "nuxt-icon": "^0.3.3",
+    "nuxt-icon": "^0.4.0",
     "nuxt-quasar-ui": "^1.6.1",
     "playwright": "^1.32.3",
     "postcss": "^8.4.22",
