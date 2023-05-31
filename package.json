@@ -42,6 +42,6 @@
     "tailwindcss": "^3.3.1",
     "typescript": "^5.0.4",
     "vite-plugin-pug": "^0.3.2",
-    "vitest": "^0.30.1"
+    "vitest": "^0.31.2"
   }
 }
